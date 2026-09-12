@@ -1,4 +1,4 @@
-# Foundation Model for Fast Cherenkov Simulation — ePIC Experiment
+# Foundation Model for Fast Cherenkov Simulation for the ePIC Experiment
 
 ## Overview
 
