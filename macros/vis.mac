@@ -1,0 +1,7 @@
+/vis/open OGL
+/vis/drawVolume
+/vis/viewer/set/autoRefresh true
+/vis/viewer/set/viewpointThetaPhi 90 0
+/vis/viewer/zoom 1.5
+
+/vis/scene/add/axes 0 0 0 100 mm
