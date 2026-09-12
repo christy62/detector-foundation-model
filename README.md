@@ -27,6 +27,8 @@ The main quantities studied include:
 - Dependence on particle momentum
 - Dependence on refractive index
 
+![Detector](plots/g4-detector.png)
+
 ## Transformer-based Mixture-of-Experts Model
 
 A Transformer-based Mixture-of-Experts (MoE) model was developed to learn the
