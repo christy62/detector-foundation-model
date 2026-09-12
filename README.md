@@ -58,13 +58,6 @@ simulation and the model output.
 
 ![Radial Distribution](plots/radial_distribution.png)
 
-### Different Momenta
-
-The detector response was studied at different particle momenta to examine how
-the hit patterns and Cherenkov ring change.
-
-![Different Momenta](plots/radius vs p.png)
-
 ### Different Refractive Indices
 
 The effect of different refractive indices on the detector response was also
